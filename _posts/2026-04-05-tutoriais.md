@@ -1,9 +1,10 @@
 ---
 title: "Tutoriais" 
-date: 2026-03-31 17:20:00 -0300
+date: 2026-04-05 17:20:00 -0300
 categories: [Desenvolvimento de Software Livre, Tutoriais]
 tags: [linux,vm,kernel]    
 description: Relato sobre a fase incial em MAC0470 
+toc: false
 ---
 
 ## Tutorial 1
