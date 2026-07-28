@@ -6,6 +6,7 @@ tags: [linux,vm,kernel]
 description: Relato sobre a fase inicial em MAC0470 
 toc: false
 comments: false
+display_updated: false
 ---
 
 ## Tutorial 1 - Configuração do ambiente de teste para o desenvolvimento do kernel Linux.
